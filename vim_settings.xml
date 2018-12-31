@@ -24,11 +24,11 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/seasons/src/index.js" timestamp="1546239195397">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/seasons/src/index.js" timestamp="1546240778850">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="22" />
         <mark key="^" line="8" column="3" />
-        <mark key="." line="17" column="0" />
+        <mark key="." line="10" column="22" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/ng-complete-course/src/app/app.component.ts" timestamp="1545020043720">
         <mark key="[" line="8" column="0" />
@@ -85,8 +85,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>console.log(position)</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHdpbmRvdy5uYXZpZ2F0b3IuZ2VvbG9jYXRpb24uZ2V0Q3VycmVudFBvc2l0aW9uKAogICAgICAgIChwb3NpdGlvbikgPT4gY29uc29sZS5sb2cocG9zaXRpb24pLAogICAgICAgIChlcnIpID0+IGNvbnNvbGUubG9nKGVycikKICAgICk7Cg==</text>
@@ -113,7 +113,7 @@
         <text encoding="base64">aW1wb3J0IGZha2VyIGZyb20gImZha2VyIjsK</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>console.log(position)</text>
       </register>
     </registers>
     <search>
