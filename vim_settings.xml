@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Work/ModernReact/components/public/index.html" timestamp="1546164339110">
         <mark key="[" line="13" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546406129941">
+      <file name="/Dummy.txt" timestamp="1546407292880">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/ng-complete-course/src/app/app.module.ts" timestamp="1544851154527">
@@ -57,11 +57,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/seasons/src/SeasonDisplay.js" timestamp="1546405716473">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="15" />
-        <mark key="^" line="13" column="15" />
-        <mark key="." line="13" column="15" />
+      <file name="$USER_HOME$/WebstormProjects/seasons/src/SeasonDisplay.js" timestamp="1546407241471">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="40" />
+        <mark key="^" line="17" column="28" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Work/ModernReact/components/src/ApprovalCard.js" timestamp="1546165374179">
         <mark key="[" line="5" column="34" />
@@ -82,40 +82,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBsYXQgPiAwID8gJ3N1bW1lcicgOiAnd2ludGVyJzsK</text>
+        <text encoding="base64">ICAgICAgICA8aSBjbGFzc05hbWU9e2Ake2ljb259IGljb25gfSAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWFzb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICA8aSBjbGFzc05hbWU9e2ljb259IC8+Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Season Display</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8aSBjbGFzc05hbWU9e2Ake2ljb259IGljb25gfSAvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5sYXQpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWFzb24pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5sYXQpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFdlIGNhbGxlZCBzZXRTdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFdlIGNhbGxlZCBzZXRTdGF0ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5uYXZpZ2F0b3IuZ2VvbG9jYXRpb24uZ2V0Q3VycmVudFBvc2l0aW9uKAogICAgICAgIChwb3NpdGlvbikgPT4gewogICAgICAgICAgLy8gV2UgY2FsbGVkIHNldFN0YXRlCiAgICAgICAgICB0aGlzLnNldFN0YXRlKHtsYXQ6IHBvc2l0aW9uLmNvb3Jkcy5sYXRpdHVkZX0pCiAgICAgICAgfSwKICAgICAgICAoZXJyKSA9PiB7CiAgICAgICAgICB0aGlzLnNldFN0YXRlKHtlcnJvck1lc3NhZ2U6IGVyci5tZXNzYWdlfSkKICAgICAgICB9CiAgICApOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgICAgPGRpdj4KICAgICAgICAgIExhdGl0dWRlOiB7fQogICAgICAgICAgPGJyLz4KICAgICAgICAgIEVycm9yOiB7fQogICAgICAgIDwvZGl2PgogICAgKTsK</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5uYXZpZ2F0b3IuZ2VvbG9jYXRpb24uZ2V0Q3VycmVudFBvc2l0aW9uKAogICAgICAgIChwb3NpdGlvbikgPT4gewogICAgICAgICAgLy8gV2UgY2FsbGVkIHNldFN0YXRlCiAgICAgICAgICB0aGlzLnNldFN0YXRlKHtsYXQ6IHBvc2l0aW9uLmNvb3Jkcy5sYXRpdHVkZX0pCiAgICAgICAgfSwKICAgICAgICAoZXJyKSA9PiB7CiAgICAgICAgICB0aGlzLnNldFN0YXRlKHtlcnJvck1lc3NhZ2U6IGVyci5tZXNzYWdlfSkKICAgICAgICB9CiAgICApOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Season Display</text>
+        <text>symbol</text>
       </register>
     </registers>
     <search>
