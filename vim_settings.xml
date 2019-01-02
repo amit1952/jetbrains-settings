@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Work/ModernReact/components/public/index.html" timestamp="1546164339110">
         <mark key="[" line="13" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546407292880">
+      <file name="/Dummy.txt" timestamp="1546409221590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/ng-complete-course/src/app/app.module.ts" timestamp="1544851154527">
@@ -17,6 +17,12 @@
       </file>
       <file name="$USER_HOME$/WebstormProjects/seasons/src/SeasoDisplay.js" timestamp="1546232959899">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/seasons/src/SeasonDisplay.css" timestamp="1546410361191">
+        <mark key="[" line="21" column="1" />
+        <mark key="]" line="20" column="31" />
+        <mark key="^" line="20" column="31" />
+        <mark key="." line="20" column="31" />
       </file>
       <file name="$USER_HOME$/Work/ModernReact/components/src/index.js" timestamp="1546165887016">
         <mark key="[" line="12" column="25" />
@@ -57,11 +63,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/seasons/src/SeasonDisplay.js" timestamp="1546407241471">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="40" />
-        <mark key="^" line="17" column="28" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/seasons/src/SeasonDisplay.js" timestamp="1546409873965">
+        <mark key="'" line="30" column="33" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="33" />
+        <mark key="^" line="30" column="33" />
+        <mark key="." line="30" column="33" />
       </file>
       <file name="$USER_HOME$/Work/ModernReact/components/src/ApprovalCard.js" timestamp="1546165374179">
         <mark key="[" line="5" column="34" />
@@ -79,43 +86,45 @@
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Work/ModernReact/components/src/CommentDetail.js" />
       <jump line="3" column="35" filename="$USER_HOME$/WebstormProjects/seasons/src/index.js" />
+      <jump line="12" column="8" filename="$USER_HOME$/WebstormProjects/seasons/src/SeasonDisplay.js" />
+      <jump line="30" column="33" filename="$USER_HOME$/WebstormProjects/seasons/src/SeasonDisplay.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8aSBjbGFzc05hbWU9e2Ake2ljb259IGljb25gfSAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aSBjbGFzc05hbWU9e2ljb259IC8+Cg==</text>
+        <text encoding="base64">ICBjb25zdCBpY29uID0gc2Vhc29uID09PSAid2ludGVyIiA/ICJzbm93Zmxha2UiIDogInN1biI7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8aSBjbGFzc05hbWU9e2Ake2ljb259IGljb25gfSAvPgo=</text>
+        <text encoding="base64">ICBjb25zdCBpY29uID0gc2Vhc29uID09PSAid2ludGVyIiA/ICJzbm93Zmxha2UiIDogInN1biI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWFzb24pOwo=</text>
+        <text encoding="base64">ICBjb25zdCB0ZXh0ID0gc2Vhc29uID09PSAid2ludGVyIiA/ICJCcnJyISBJdCdzIGNoaWxseSEiIDogIkxldCdzIGhpdCB0aGUgYmVhY2ghIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5sYXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8aSBjbGFzc05hbWU9e2ljb259IC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWFzb24pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5sYXQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFdlIGNhbGxlZCBzZXRTdGF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5uYXZpZ2F0b3IuZ2VvbG9jYXRpb24uZ2V0Q3VycmVudFBvc2l0aW9uKAogICAgICAgIChwb3NpdGlvbikgPT4gewogICAgICAgICAgLy8gV2UgY2FsbGVkIHNldFN0YXRlCiAgICAgICAgICB0aGlzLnNldFN0YXRlKHtsYXQ6IHBvc2l0aW9uLmNvb3Jkcy5sYXRpdHVkZX0pCiAgICAgICAgfSwKICAgICAgICAoZXJyKSA9PiB7CiAgICAgICAgICB0aGlzLnNldFN0YXRlKHtlcnJvck1lc3NhZ2U6IGVyci5tZXNzYWdlfSkKICAgICAgICB9CiAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFdlIGNhbGxlZCBzZXRTdGF0ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>symbol</text>
+        <text>iconName</text>
       </register>
     </registers>
     <search>
