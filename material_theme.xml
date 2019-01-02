@@ -10,7 +10,8 @@
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="useMaterialFont2" value="true" />
-    <option name="settingsSelectedTab" value="6" />
+    <option name="indicatorStyle" value="Dot" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="accentColor" value="7fe90e" />
     <option name="highlightColor" value="7fe90e" />
     <option name="userId" value="-29fa03e6:167ab9c73ec:-8000" />

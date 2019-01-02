@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="fn" value="(%PARAMS%) =&gt; {%END$};" description="ES2016 function body" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

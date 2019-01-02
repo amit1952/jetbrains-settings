@@ -4,7 +4,7 @@
     <property name="created">2018-12-17T08:12:03</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-01-01T13:28:47</property>
+    <property name="modified">2019-01-02T09:44:23</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -519,7 +519,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="546e7a" />
+        <option name="FOREGROUND" value="2fa92d" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -644,7 +644,8 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="546e7a" />
+        <option name="FOREGROUND" value="2fa92d" />
+        <option name="BACKGROUND" value="28373f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
