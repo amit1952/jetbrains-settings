@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Work/ModernReact/components/public/index.html" timestamp="1546164339110">
         <mark key="[" line="13" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546409221590">
+      <file name="/Dummy.txt" timestamp="1547014123344">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/ng-complete-course/src/app/app.module.ts" timestamp="1544851154527">
@@ -18,11 +18,11 @@
       <file name="$USER_HOME$/WebstormProjects/seasons/src/SeasoDisplay.js" timestamp="1546232959899">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/seasons/src/SeasonDisplay.css" timestamp="1546410361191">
-        <mark key="[" line="21" column="1" />
-        <mark key="]" line="20" column="31" />
-        <mark key="^" line="20" column="31" />
-        <mark key="." line="20" column="31" />
+      <file name="$USER_HOME$/WebstormProjects/seasons/src/SeasonDisplay.css" timestamp="1547013802378">
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="17" column="13" />
+        <mark key="^" line="17" column="13" />
+        <mark key="." line="17" column="13" />
       </file>
       <file name="$USER_HOME$/Work/ModernReact/components/src/index.js" timestamp="1546165887016">
         <mark key="[" line="12" column="25" />
@@ -91,13 +91,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8aSBjbGFzc05hbWU9e2Ake2ljb259IGljb25gfSAvPgo=</text>
+        <text encoding="base64">Ci5zZWFzb24tZGlzcGxheS53aW50ZXIgaSB7CiAgICBjb2xvcjogYmx1ZTsKfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb25zdCBpY29uID0gc2Vhc29uID09PSAid2ludGVyIiA/ICJzbm93Zmxha2UiIDogInN1biI7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBpY29uID0gc2Vhc29uID09PSAid2ludGVyIiA/ICJzbm93Zmxha2UiIDogInN1biI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>blue</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICBjb25zdCB0ZXh0ID0gc2Vhc29uID09PSAid2ludGVyIiA/ICJCcnJyISBJdCdzIGNoaWxseSEiIDogIkxldCdzIGhpdCB0aGUgYmVhY2ghIjsK</text>
@@ -124,7 +124,7 @@
         <text encoding="base64">ICAgICAgICAgIC8vIFdlIGNhbGxlZCBzZXRTdGF0ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>iconName</text>
+        <text>blue</text>
       </register>
     </registers>
     <search>
