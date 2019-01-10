@@ -36,12 +36,12 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/seasons/src/index.js" timestamp="1547095189628">
+      <file name="$USER_HOME$/WebstormProjects/seasons/src/index.js" timestamp="1547096035366">
         <mark key="'" line="4" column="35" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="33" column="20" />
-        <mark key="^" line="33" column="23" />
-        <mark key="." line="33" column="20" />
+        <mark key="[" line="36" column="12" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/ng-complete-course/src/app/app.component.ts" timestamp="1545020043720">
         <mark key="[" line="8" column="0" />
@@ -100,37 +100,37 @@
         <text encoding="base64">Ci5zZWFzb24tZGlzcGxheS53aW50ZXIgaSB7CiAgICBjb2xvcjogYmx1ZTsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBpY29uID0gc2Vhc29uID09PSAid2ludGVyIiA/ICJzbm93Zmxha2UiIDogInN1biI7Cg==</text>
+        <text encoding="base64">ICAvLyBSZWFjdCBzYXlzIHdlIGhhdmUgdG8gZGVmaW5lIHJlbmRlcigpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>message=&quot;Please accept location message&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBSZWFjdCBzYXlzIHdlIGhhdmUgdG8gZGVmaW5lIHJlbmRlcigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCB0ZXh0ID0gc2Vhc29uID09PSAid2ludGVyIiA/ICJCcnJyISBJdCdzIGNoaWxseSEiIDogIkxldCdzIGhpdCB0aGUgYmVhY2ghIjsK</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLmVycm9yTWVzc2FnZSAmJiAhdGhpcy5zdGF0ZS5sYXQpIHsKICAgICAgcmV0dXJuIDxkaXY+RXJyb3I6IHt0aGlzLnN0YXRlLmVycm9yTWVzc2FnZX08L2Rpdj47CiAgICB9CgogICAgaWYgKCF0aGlzLnN0YXRlLmVycm9yTWVzc2FnZSAmJiB0aGlzLnN0YXRlLmxhdCkgewogICAgICByZXR1cm4gPFNlYXNvbkRpc3BsYXkgbGF0PXt0aGlzLnN0YXRlLmxhdH0vPjsKICAgIH0KCiAgICAvLyBTcGlubmVyIGNvbXBvbmVudCBhY2NlcHRzIGEgJ21lc3NhZ2UnIGF0dHJpYnV0ZQogICAgcmV0dXJuIDxTcGlubmVyIG1lc3NhZ2U9IlBsZWFzZSBhY2NlcHQgbG9jYXRpb24gbWVzc2FnZSIvPjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8aSBjbGFzc05hbWU9e2ljb259IC8+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWFzb24pOwo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLmVycm9yTWVzc2FnZSAmJiAhdGhpcy5zdGF0ZS5sYXQpIHsKICAgICAgcmV0dXJuIDxkaXY+RXJyb3I6IHt0aGlzLnN0YXRlLmVycm9yTWVzc2FnZX08L2Rpdj47CiAgICB9CgogICAgaWYgKCF0aGlzLnN0YXRlLmVycm9yTWVzc2FnZSAmJiB0aGlzLnN0YXRlLmxhdCkgewogICAgICByZXR1cm4gPFNlYXNvbkRpc3BsYXkgbGF0PXt0aGlzLnN0YXRlLmxhdH0vPjsKICAgIH0KCiAgICAvLyBTcGlubmVyIGNvbXBvbmVudCBhY2NlcHRzIGEgJ21lc3NhZ2UnIGF0dHJpYnV0ZQogICAgcmV0dXJuIDxTcGlubmVyIG1lc3NhZ2U9IlBsZWFzZSBhY2NlcHQgbG9jYXRpb24gbWVzc2FnZSIvPjsKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcy5sYXQpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBpY29uID0gc2Vhc29uID09PSAid2ludGVyIiA/ICJzbm93Zmxha2UiIDogInN1biI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB0ZXh0ID0gc2Vhc29uID09PSAid2ludGVyIiA/ICJCcnJyISBJdCdzIGNoaWxseSEiIDogIkxldCdzIGhpdCB0aGUgYmVhY2ghIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aSBjbGFzc05hbWU9e2ljb259IC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIFdlIGNhbGxlZCBzZXRTdGF0ZQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWFzb24pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>message=&quot;Please accept location message&quot;</text>
+        <text>}</text>
       </register>
     </registers>
     <search>
