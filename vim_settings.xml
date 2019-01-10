@@ -18,6 +18,12 @@
       <file name="$USER_HOME$/WebstormProjects/seasons/src/SeasoDisplay.js" timestamp="1546232959899">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/seasons/src/Spinner.js" timestamp="1547092744192">
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="43" />
+        <mark key="^" line="4" column="43" />
+        <mark key="." line="4" column="43" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/seasons/src/SeasonDisplay.css" timestamp="1547013802378">
         <mark key="[" line="17" column="11" />
         <mark key="]" line="17" column="13" />
@@ -30,12 +36,12 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/seasons/src/index.js" timestamp="1546403621043">
-        <mark key="'" line="3" column="35" />
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="28" />
-        <mark key="^" line="29" column="28" />
-        <mark key="." line="29" column="28" />
+      <file name="$USER_HOME$/WebstormProjects/seasons/src/index.js" timestamp="1547093412536">
+        <mark key="'" line="4" column="35" />
+        <mark key="[" line="33" column="11" />
+        <mark key="]" line="33" column="11" />
+        <mark key="^" line="3" column="31" />
+        <mark key="." line="33" column="11" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/ng-complete-course/src/app/app.component.ts" timestamp="1545020043720">
         <mark key="[" line="8" column="0" />
@@ -97,7 +103,7 @@
         <text encoding="base64">ICBjb25zdCBpY29uID0gc2Vhc29uID09PSAid2ludGVyIiA/ICJzbm93Zmxha2UiIDogInN1biI7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>blue</text>
+        <text encoding="base64">PGRpdj5Mb2FkaW5nLi4uPC9kaXY+</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICBjb25zdCB0ZXh0ID0gc2Vhc29uID09PSAid2ludGVyIiA/ICJCcnJyISBJdCdzIGNoaWxseSEiIDogIkxldCdzIGhpdCB0aGUgYmVhY2ghIjsK</text>
@@ -124,7 +130,7 @@
         <text encoding="base64">ICAgICAgICAgIC8vIFdlIGNhbGxlZCBzZXRTdGF0ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>blue</text>
+        <text encoding="base64">PGRpdj5Mb2FkaW5nLi4uPC9kaXY+</text>
       </register>
     </registers>
     <search>
