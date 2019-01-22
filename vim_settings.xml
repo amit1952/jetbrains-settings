@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Work/ModernReact/components/public/index.html" timestamp="1546164339110">
         <mark key="[" line="13" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548130201800">
+      <file name="/Dummy.txt" timestamp="1548131535724">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/angular-2/app/ts/app.component.ts" timestamp="1548130912498">
@@ -34,6 +34,11 @@
         <mark key="]" line="5" column="57" />
         <mark key="^" line="5" column="57" />
         <mark key="." line="5" column="57" />
+      </file>
+      <file name="$USER_HOME$/Work/angular-2/index.html" timestamp="1548132268483">
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="12" />
+        <mark key="." line="32" column="12" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/seasons/src/SeasonDisplay.css" timestamp="1547013802378">
         <mark key="[" line="17" column="11" />
@@ -114,7 +119,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Angular 2 Template</text>
+        <text>Loading</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -141,7 +146,7 @@
         <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLmVycm9yTWVzc2FnZSAmJiAhdGhpcy5zdGF0ZS5sYXQpIHsKICAgICAgcmV0dXJuIDxkaXY+RXJyb3I6IHt0aGlzLnN0YXRlLmVycm9yTWVzc2FnZX08L2Rpdj47CiAgICB9CgogICAgaWYgKCF0aGlzLnN0YXRlLmVycm9yTWVzc2FnZSAmJiB0aGlzLnN0YXRlLmxhdCkgewogICAgICByZXR1cm4gPFNlYXNvbkRpc3BsYXkgbGF0PXt0aGlzLnN0YXRlLmxhdH0vPjsKICAgIH0KCiAgICAvLyBTcGlubmVyIGNvbXBvbmVudCBhY2NlcHRzIGEgJ21lc3NhZ2UnIGF0dHJpYnV0ZQogICAgcmV0dXJuIDxTcGlubmVyIG1lc3NhZ2U9IlBsZWFzZSBhY2NlcHQgbG9jYXRpb24gbWVzc2FnZSIvPjsKICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Angular 2 Template</text>
+        <text>Loading</text>
       </register>
     </registers>
     <search>

@@ -4,15 +4,16 @@
     <property name="created">2018-12-17T08:12:03</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-01-21T00:28:45</property>
+    <property name="modified">2019-01-22T10:39:35</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code Light" />
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -489,9 +490,24 @@
         <option name="FOREGROUND" value="82b1ff" />
       </value>
     </option>
+    <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ab51ba" />
+        <option name="EFFECT_COLOR" value="32424a" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="f9795" />
+        <option name="EFFECT_COLOR" value="32424a" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f77669" />
+        <option name="EFFECT_COLOR" value="32424a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -530,11 +546,15 @@
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
+        <option name="EFFECT_COLOR" value="32424a" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="c792ea" />
+        <option name="EFFECT_COLOR" value="32424a" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -606,6 +626,8 @@
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="eeffff" />
+        <option name="EFFECT_COLOR" value="32424a" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -641,6 +663,8 @@
         <option name="FOREGROUND" value="2fa92d" />
         <option name="BACKGROUND" value="28373f" />
         <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="32424a" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -3728,6 +3752,7 @@
       <value>
         <option name="FOREGROUND" value="c3cee3" />
         <option name="BACKGROUND" value="263238" />
+        <option name="EFFECT_COLOR" value="32424a" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
