@@ -9,6 +9,11 @@
       <file name="/Dummy.txt" timestamp="1548130201800">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/angular-2/app/ts/app.component.ts" timestamp="1548130912498">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/nodejs-complete-guide/app.js" timestamp="1548046329619">
         <mark key="[" line="7" column="46" />
         <mark key="]" line="7" column="43" />
@@ -109,7 +114,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PGh0MT5IZWxsbyBmcm9tIG15IE5vZGVKcyBTZXJ2ZXIhPC9odDE+</text>
+        <text>Angular 2 Template</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -136,7 +141,7 @@
         <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLmVycm9yTWVzc2FnZSAmJiAhdGhpcy5zdGF0ZS5sYXQpIHsKICAgICAgcmV0dXJuIDxkaXY+RXJyb3I6IHt0aGlzLnN0YXRlLmVycm9yTWVzc2FnZX08L2Rpdj47CiAgICB9CgogICAgaWYgKCF0aGlzLnN0YXRlLmVycm9yTWVzc2FnZSAmJiB0aGlzLnN0YXRlLmxhdCkgewogICAgICByZXR1cm4gPFNlYXNvbkRpc3BsYXkgbGF0PXt0aGlzLnN0YXRlLmxhdH0vPjsKICAgIH0KCiAgICAvLyBTcGlubmVyIGNvbXBvbmVudCBhY2NlcHRzIGEgJ21lc3NhZ2UnIGF0dHJpYnV0ZQogICAgcmV0dXJuIDxTcGlubmVyIG1lc3NhZ2U9IlBsZWFzZSBhY2NlcHQgbG9jYXRpb24gbWVzc2FnZSIvPjsKICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGh0MT5IZWxsbyBmcm9tIG15IE5vZGVKcyBTZXJ2ZXIhPC9odDE+</text>
+        <text>Angular 2 Template</text>
       </register>
     </registers>
     <search>
