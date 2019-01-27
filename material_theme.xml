@@ -11,10 +11,9 @@
     <option name="treeFontSizeEnabled" value="true" />
     <option name="useMaterialFont2" value="true" />
     <option name="indicatorStyle" value="Dot" />
-    <option name="settingsSelectedTab" value="3" />
-    <option name="accentColor" value="7fe90e" />
-    <option name="highlightColor" value="7fe90e" />
+    <option name="accentColor" value="1e5ce9" />
+    <option name="highlightColor" value="1e5ce9" />
     <option name="userId" value="-29fa03e6:167ab9c73ec:-8000" />
-    <option name="version" value="3.4.1.1" />
+    <option name="version" value="3.5.0" />
   </component>
 </application>
