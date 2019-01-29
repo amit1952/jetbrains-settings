@@ -40,11 +40,11 @@
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/vuejs-playlist/index.html" timestamp="1548735802800">
-        <mark key="[" line="13" column="2" />
-        <mark key="]" line="13" column="32" />
-        <mark key="^" line="11" column="19" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/vuejs-playlist/index.html" timestamp="1548738180257">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="26" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/seasons/src/SeasonDisplay.css" timestamp="1547013802378">
         <mark key="[" line="17" column="11" />
@@ -104,8 +104,11 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/vuejs-playlist/app.js" timestamp="1548735701843">
-        <mark key="[" line="0" column="9" />
+      <file name="$USER_HOME$/WebstormProjects/vuejs-playlist/app.js" timestamp="1548738288498">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/ng-complete-course/angular.json" timestamp="1545019175518">
         <mark key="[" line="24" column="23" />
@@ -125,37 +128,37 @@
         <text encoding="base64">ICByZXMud3JpdGUoJzxodG1sIGxhbmc9ImVuIj4nKTsKICByZXMud3JpdGUoJzxoZWFkPjx0aXRsZT5NeSBmaXJzdCBOb2RlSnMgUGFnZTwvdGl0bGU+PC9oZWFkPicpOwogIHJlcy53cml0ZSgnPGJvZHk+PGgxPkhlbGxvIGZyb20gbXkgTm9kZUpzIFNlcnZlciE8L2gxPjwvYm9keT4nKTsKICByZXMud3JpdGUoJzwvaHRtbD4nKTsKICByZXMuZW5kKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJhcHAuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIDxoMT57eyBuYW1lIH19PC9oMT4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJhcHAuanMiPjwvc2NyaXB0Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>Afternoon</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXMuc2V0SGVhZGVyKCdDb250ZW50LVR5cGUnLCAndGV4dC9odG1sJyk7CiAgcmVzLndyaXRlKCc8aHRtbD4nKTsKICByZXMud3JpdGUoJzxoZWFkPjx0aXRsZT5NeSBmaXJzdCBOb2RlSnMgUGFnZTwvdGl0bGU+PC9oZWFkPicpOwogIHJlcy53cml0ZSgnPGJvZHk+PGgxPkhlbGxvIGZyb20gbXkgTm9kZUpzIFNlcnZlciE8L2gxPjwvYm9keT4nKTsKICByZXMud3JpdGUoJzwvaHRtbD4nKTsKICByZXMuZW5kKCk7Cg==</text>
+        <text encoding="base64">ICAgIG5hbWU6ICdBbWl0YXZhJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEudXJsLCByZXEubWV0aG9kLCByZXEuaGVhZGVycyk7Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJhcHAuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb24KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBSZWFjdCBzYXlzIHdlIGhhdmUgdG8gZGVmaW5lIHJlbmRlcigpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLmVycm9yTWVzc2FnZSAmJiAhdGhpcy5zdGF0ZS5sYXQpIHsKICAgICAgcmV0dXJuIDxkaXY+RXJyb3I6IHt0aGlzLnN0YXRlLmVycm9yTWVzc2FnZX08L2Rpdj47CiAgICB9CgogICAgaWYgKCF0aGlzLnN0YXRlLmVycm9yTWVzc2FnZSAmJiB0aGlzLnN0YXRlLmxhdCkgewogICAgICByZXR1cm4gPFNlYXNvbkRpc3BsYXkgbGF0PXt0aGlzLnN0YXRlLmxhdH0vPjsKICAgIH0KCiAgICAvLyBTcGlubmVyIGNvbXBvbmVudCBhY2NlcHRzIGEgJ21lc3NhZ2UnIGF0dHJpYnV0ZQogICAgcmV0dXJuIDxTcGlubmVyIG1lc3NhZ2U9IlBsZWFzZSBhY2NlcHQgbG9jYXRpb24gbWVzc2FnZSIvPjsK</text>
+        <text encoding="base64">ICByZXMuc2V0SGVhZGVyKCdDb250ZW50LVR5cGUnLCAndGV4dC9odG1sJyk7CiAgcmVzLndyaXRlKCc8aHRtbD4nKTsKICByZXMud3JpdGUoJzxoZWFkPjx0aXRsZT5NeSBmaXJzdCBOb2RlSnMgUGFnZTwvdGl0bGU+PC9oZWFkPicpOwogIHJlcy53cml0ZSgnPGJvZHk+PGgxPkhlbGxvIGZyb20gbXkgTm9kZUpzIFNlcnZlciE8L2gxPjwvYm9keT4nKTsKICByZXMud3JpdGUoJzwvaHRtbD4nKTsKICByZXMuZW5kKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEudXJsLCByZXEubWV0aG9kLCByZXEuaGVhZGVycyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Loading</text>
+        <text>Afternoon</text>
       </register>
     </registers>
     <search>
