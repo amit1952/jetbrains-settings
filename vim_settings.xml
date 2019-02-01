@@ -26,6 +26,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="16" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/nodejs-blog-project/pages/index.html" timestamp="1548997933565">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/seasons/src/SeasoDisplay.js" timestamp="1546232959899">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,6 +75,13 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/nodejs-blog-project/index.js" timestamp="1548999200243">
+        <mark key="'" line="8" column="14" />
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/seasons/public/index.html" timestamp="1546231278178">
         <mark key="[" line="14" column="61" />
@@ -122,43 +135,46 @@
       <jump line="3" column="35" filename="$USER_HOME$/WebstormProjects/seasons/src/index.js" />
       <jump line="12" column="8" filename="$USER_HOME$/WebstormProjects/seasons/src/SeasonDisplay.js" />
       <jump line="30" column="33" filename="$USER_HOME$/WebstormProjects/seasons/src/SeasonDisplay.js" />
+      <jump line="4" column="16" filename="$USER_HOME$/WebstormProjects/nodejs-blog-project/pages/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/nodejs-blog-project/pages/index.html" />
+      <jump line="7" column="14" filename="$USER_HOME$/WebstormProjects/nodejs-blog-project/index.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICByZXMud3JpdGUoJzxodG1sIGxhbmc9ImVuIj4nKTsKICByZXMud3JpdGUoJzxoZWFkPjx0aXRsZT5NeSBmaXJzdCBOb2RlSnMgUGFnZTwvdGl0bGU+PC9oZWFkPicpOwogIHJlcy53cml0ZSgnPGJvZHk+PGgxPkhlbGxvIGZyb20gbXkgTm9kZUpzIFNlcnZlciE8L2gxPjwvYm9keT4nKTsKICByZXMud3JpdGUoJzwvaHRtbD4nKTsKICByZXMuZW5kKCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxoMT57eyBuYW1lIH19PC9oMT4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Afternoon</text>
+        <text>path.resolve(__dirname,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxoMT57eyBuYW1lIH19PC9oMT4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICdBbWl0YXZhJwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJhcHAuanMiPjwvc2NyaXB0Pgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG5hbWU6ICdBbWl0YXZhJwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJhcHAuanMiPjwvc2NyaXB0Pgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXMuc2V0SGVhZGVyKCdDb250ZW50LVR5cGUnLCAndGV4dC9odG1sJyk7CiAgcmVzLndyaXRlKCc8aHRtbD4nKTsKICByZXMud3JpdGUoJzxoZWFkPjx0aXRsZT5NeSBmaXJzdCBOb2RlSnMgUGFnZTwvdGl0bGU+PC9oZWFkPicpOwogIHJlcy53cml0ZSgnPGJvZHk+PGgxPkhlbGxvIGZyb20gbXkgTm9kZUpzIFNlcnZlciE8L2gxPjwvYm9keT4nKTsKICByZXMud3JpdGUoJzwvaHRtbD4nKTsKICByZXMuZW5kKCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEudXJsLCByZXEubWV0aG9kLCByZXEuaGVhZGVycyk7Cg==</text>
+        <text encoding="base64">ICByZXMuc2V0SGVhZGVyKCdDb250ZW50LVR5cGUnLCAndGV4dC9odG1sJyk7CiAgcmVzLndyaXRlKCc8aHRtbD4nKTsKICByZXMud3JpdGUoJzxoZWFkPjx0aXRsZT5NeSBmaXJzdCBOb2RlSnMgUGFnZTwvdGl0bGU+PC9oZWFkPicpOwogIHJlcy53cml0ZSgnPGJvZHk+PGgxPkhlbGxvIGZyb20gbXkgTm9kZUpzIFNlcnZlciE8L2gxPjwvYm9keT4nKTsKICByZXMud3JpdGUoJzwvaHRtbD4nKTsKICByZXMuZW5kKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Afternoon</text>
+        <text>path.resolve(__dirname,</text>
       </register>
     </registers>
     <search>
@@ -180,6 +196,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
