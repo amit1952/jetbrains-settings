@@ -52,11 +52,10 @@
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/vuejs-playlist/index.html" timestamp="1548738180257">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="26" />
+      <file name="$USER_HOME$/WebstormProjects/vuejs-playlist/index.html" timestamp="1549081649528">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/seasons/src/SeasonDisplay.css" timestamp="1547013802378">
         <mark key="[" line="17" column="11" />
@@ -123,11 +122,11 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/vuejs-playlist/app.js" timestamp="1548738288498">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="8" column="26" />
-        <mark key="^" line="8" column="26" />
+      <file name="$USER_HOME$/WebstormProjects/vuejs-playlist/app.js" timestamp="1549081529113">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/ng-complete-course/angular.json" timestamp="1545019175518">
         <mark key="[" line="24" column="23" />
@@ -149,35 +148,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICByZXMud3JpdGUoJzxodG1sIGxhbmc9ImVuIj4nKTsKICByZXMud3JpdGUoJzxoZWFkPjx0aXRsZT5NeSBmaXJzdCBOb2RlSnMgUGFnZTwvdGl0bGU+PC9oZWFkPicpOwogIHJlcy53cml0ZSgnPGJvZHk+PGgxPkhlbGxvIGZyb20gbXkgTm9kZUpzIFNlcnZlciE8L2gxPjwvYm9keT4nKTsKICByZXMud3JpdGUoJzwvaHRtbD4nKTsKICByZXMuZW5kKCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxoMT57eyBncmVldCgnbmlnaHQnKSB9fTwvaDE+Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>path.resolve(__dirname,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxoMT57eyBncmVldCgnbmlnaHQnKSB9fTwvaDE+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxoMT57eyBuYW1lIH19PC9oMT4K</text>
+        <text encoding="base64">ICA8aDE+RGF0YSBCaW5kaW5nPC9oMT4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxoMT57eyBuYW1lIH19PC9oMT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICdBbWl0YXZhJwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJhcHAuanMiPjwvc2NyaXB0Pgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG5hbWU6ICdBbWl0YXZhJwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJhcHAuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXMuc2V0SGVhZGVyKCdDb250ZW50LVR5cGUnLCAndGV4dC9odG1sJyk7CiAgcmVzLndyaXRlKCc8aHRtbD4nKTsKICByZXMud3JpdGUoJzxoZWFkPjx0aXRsZT5NeSBmaXJzdCBOb2RlSnMgUGFnZTwvdGl0bGU+PC9oZWFkPicpOwogIHJlcy53cml0ZSgnPGJvZHk+PGgxPkhlbGxvIGZyb20gbXkgTm9kZUpzIFNlcnZlciE8L2gxPjwvYm9keT4nKTsKICByZXMud3JpdGUoJzwvaHRtbD4nKTsKICByZXMuZW5kKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>path.resolve(__dirname,</text>
