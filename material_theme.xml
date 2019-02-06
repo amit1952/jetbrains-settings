@@ -5,7 +5,6 @@
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
@@ -13,6 +12,7 @@
     <option name="indicatorStyle" value="Dot" />
     <option name="accentColor" value="1e5ce9" />
     <option name="highlightColor" value="1e5ce9" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-29fa03e6:167ab9c73ec:-8000" />
     <option name="version" value="3.5.0.1" />
   </component>
