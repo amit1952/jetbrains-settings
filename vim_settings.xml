@@ -52,10 +52,11 @@
         <mark key="]" line="32" column="12" />
         <mark key="." line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/vuejs-playlist/index.html" timestamp="1549081649528">
+      <file name="$USER_HOME$/WebstormProjects/vuejs-playlist/index.html" timestamp="1549081826098">
         <mark key="[" line="14" column="26" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+        <mark key="^" line="15" column="32" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/seasons/src/SeasonDisplay.css" timestamp="1547013802378">
         <mark key="[" line="17" column="11" />
