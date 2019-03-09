@@ -40,12 +40,12 @@
         <mark key="^" line="17" column="13" />
         <mark key="." line="17" column="13" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/counter-app/src/components/counter.jsx" timestamp="1552103278375">
+      <file name="$USER_HOME$/WebstormProjects/counter-app/src/components/counter.jsx" timestamp="1552105114136">
         <mark key="'" line="5" column="33" />
-        <mark key="[" line="14" column="44" />
-        <mark key="]" line="14" column="43" />
-        <mark key="." line="14" column="43" />
-        <mark key="^" line="14" column="43" />
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="36" column="11" />
+        <mark key="." line="36" column="11" />
+        <mark key="^" line="36" column="11" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/simpleblog/routes/dashboard.js" timestamp="1549773898224">
         <mark key="[" line="5" column="14" />
@@ -85,13 +85,19 @@
         <mark key="^" line="30" column="33" />
         <mark key="." line="30" column="33" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/counter-app/src/index.js" timestamp="1552105739442">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+      </file>
       <file name="$USER_HOME$/Work/ModernReact/components/src/ApprovalCard.js" timestamp="1546165374179">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="5" column="34" />
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552103433059">
+      <file name="/Dummy.txt" timestamp="1552105425491">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/nodejs-complete-guide/app.js" timestamp="1548046329619">
@@ -185,8 +191,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJJbmNyZW1lbnQgQ2xpY2tlZCIsIHRoaXMpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJJbmNyZW1lbnQgQ2xpY2tlZCIsIHRoaXMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>this.doHandleArgument</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdDb25zdHJ1Y3RvcicsIHRoaXMpOwo=</text>
@@ -213,7 +219,7 @@
         <text encoding="base64">ICBzdHlsZXMgPSB7CiAgICBmb250U2l6ZTogNTAsCiAgICBmb250V2VpZ2h0OiAiYm9sZCIKICB9OwoK</text>
       </register>
       <register name="-" type="4">
-        <text>.state.count</text>
+        <text>this.doHandleArgument</text>
       </register>
     </registers>
     <search>
