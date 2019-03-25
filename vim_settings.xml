@@ -103,6 +103,12 @@
         <mark key="." line="5" column="34" />
         <mark key="^" line="5" column="34" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/hello-world/src/app/app.component.ts" timestamp="1553485443508">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
+      </file>
       <file name="/Dummy.txt" timestamp="1552365974585">
         <mark key="[" line="0" column="0" />
       </file>
