@@ -59,6 +59,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/hello-world/ts-hello/main.ts" timestamp="1553658331015">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/ng-complete-course/src/app/app.component.ts" timestamp="1545020043720">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -215,40 +221,42 @@
       <jump line="14" column="50" filename="$USER_HOME$/WebstormProjects/counter-app/src/components/counter.jsx" />
       <jump line="5" column="33" filename="$USER_HOME$/WebstormProjects/counter-app/src/components/counter.jsx" />
       <jump line="3" column="11" filename="$USER_HOME$/WebstormProjects/counter-app/src/components/counters.jsx" />
+      <jump line="1" column="9" filename="$USER_HOME$/WebstormProjects/hello-world/ts-hello/main.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/hello-world/ts-hello/main.ts" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7IGlkOiAxLCB2YWx1ZTogMCB9LAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PGlucHV0IHR5cGU9InRleHQiPgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gZG9Tb21ldGhpbmcoKSB7CiAgZm9yIChsZXQgaSA9IDA7IGkgPCA1OyBpKyspIHsKICAgIGNvbnNvbGUubG9nKGkpOwogIH0KCiAgY29uc29sZS5sb2coJ0ZpbmFsbHkgJyArIGkpOwp9Cgpkb1NvbWV0aGluZygpOw==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGRpc2FibGVk</text>
+        <text encoding="base64">ZnVuY3Rpb24gZG9Tb21ldGhpbmcoKSB7CiAgZm9yIChsZXQgaSA9IDA7IGkgPCA1OyBpKyspIHsKICAgIGNvbnNvbGUubG9nKGkpOwogIH0KCiAgY29uc29sZS5sb2coJ0ZpbmFsbHkgJyArIGkpOwp9Cgpkb1NvbWV0aGluZygpOw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGgyPlRoZSBQb3N0IENyZWF0ZSBDb21wb25lbnQ8L2gyPgo=</text>
+        <text encoding="base64">PGlucHV0IHR5cGU9InRleHQiPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4K</text>
+        <text encoding="base64">PGgyPlRoZSBQb3N0IENyZWF0ZSBDb21wb25lbnQ8L2gyPgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJJbmNyZW1lbnQgQ2xpY2tlZCIsIHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdDb25zdHJ1Y3RvcicsIHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJJbmNyZW1lbnQgQ2xpY2tlZCIsIHRoaXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx1bD4KICAgICAgICAgICAgeyB0aGlzLnN0YXRlLnRhZ3MubWFwKHRhZyA9PiA8bGkga2V5PXt0YWd9PnsgdGFnIH08L2xpPikgfQogICAgICAgICAgPC91bD4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdDb25zdHJ1Y3RvcicsIHRoaXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRhZ3M6IFsndGFnMScsICd0YWcyJywgJ3RhZzMnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDx1bD4KICAgICAgICAgICAgeyB0aGlzLnN0YXRlLnRhZ3MubWFwKHRhZyA9PiA8bGkga2V5PXt0YWd9PnsgdGFnIH08L2xpPikgfQogICAgICAgICAgPC91bD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRhZ3M6IFsndGFnMScsICd0YWcyJywgJ3RhZzMnXQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGRpc2FibGVk</text>
