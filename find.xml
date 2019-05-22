@@ -1,0 +1,7 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '.../ts-hello/main.ts [hello-world]'" />
+    <option name="defaultScopeName" value="File '.../ts-hello/main.ts [hello-world]'" />
+    <option name="SEARCH_SCOPE" value="File '.../ts-hello/main.ts [hello-world]'" />
+  </component>
+</application>
