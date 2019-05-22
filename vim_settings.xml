@@ -6,11 +6,6 @@
       <file name="$USER_HOME$/Work/ModernReact/components/public/index.html" timestamp="1546164339110">
         <mark key="[" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Work/angular-2/app/ts/app.component.ts" timestamp="1548130912498">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-      </file>
       <file name="$USER_HOME$/WebstormProjects/nodejs-blog-project/pages/index.html" timestamp="1548997933565">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -28,11 +23,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="4" column="21" />
-      </file>
-      <file name="$USER_HOME$/Work/angular-2/index.html" timestamp="1548132268483">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="32" column="12" />
-        <mark key="." line="32" column="12" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/seasons/src/SeasonDisplay.css" timestamp="1547013802378">
         <mark key="[" line="17" column="11" />
@@ -65,10 +55,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/WebstormProjects/ng-complete-course/src/app/app.component.ts" timestamp="1545020043720">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/WebstormProjects/angular-todolist/src/index.html" timestamp="1558502389265">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/nodejs-blog-project/index.js" timestamp="1548999200243">
         <mark key="'" line="8" column="14" />
@@ -115,7 +106,7 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553485571744">
+      <file name="/Dummy.txt" timestamp="1558502403369">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/nodejs-complete-guide/app.js" timestamp="1548046329619">
@@ -184,11 +175,6 @@
       </file>
       <file name="$USER_HOME$/WebstormProjects/seasons/public/index.html" timestamp="1546231278178">
         <mark key="[" line="14" column="61" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/ng-complete-course/src/app/app.component.html" timestamp="1545021451869">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/ModernReact/components/public/styles.css" timestamp="1546164446022">
         <mark key="[" line="0" column="0" />
@@ -286,52 +272,7 @@ testem.log
 Thumbs.db</text>
       </register>
       <register name="&quot;" type="4">
-        <text># See http://help.github.com/ignore-files/ for more about ignoring files.
-
-# compiled output
-/dist
-/tmp
-/out-tsc
-# Only exists if Bazel was run
-/bazel-out
-
-# dependencies
-/node_modules
-
-# profiling files
-chrome-profiler-events.json
-speed-measure-plugin.json
-
-# IDEs and editors
-/.idea
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
-
-# IDE - VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-.history/*
-
-# misc
-/.sass-cache
-/connect.lock
-/coverage
-/libpeerconnection.log
-npm-debug.log
-yarn-error.log
-testem.log
-/typings
-
-# System Files
-.DS_Store
-Thumbs.db</text>
+        <text>AngularTodolist</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">fTsK</text>
@@ -365,7 +306,7 @@ let backgroundColor = Color.Blue;</text>
         <text encoding="base64">ICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4K</text>
       </register>
       <register name="-" type="4">
-        <text>F</text>
+        <text>AngularTodolist</text>
       </register>
     </registers>
     <search>
