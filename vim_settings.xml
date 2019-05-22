@@ -157,6 +157,12 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/angular-todolist/.gitignore" timestamp="1558500336052">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/WebstormProjects/hello-world/src/app/courses.component.ts" timestamp="1550554696019">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -225,21 +231,115 @@
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/hello-world/ts-hello/main.ts" />
       <jump line="7" column="33" filename="$USER_HOME$/WebstormProjects/hello-world/ts-hello/main.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/WebstormProjects/hello-world/ts-hello/main.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/angular-todolist/.gitignore" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">bGV0IGVuZHNXaXRoQyA9ICg8c3RyaW5nPiBtZXNzYWdlKS5lbmRzV2l0aCgnYycpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">fTsK</text>
+      <register name="1" type="4">
+        <text># See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+# Only exists if Bazel was run
+/bazel-out
+
+# dependencies
+/node_modules
+
+# profiling files
+chrome-profiler-events.json
+speed-measure-plugin.json
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+
+# System Files
+.DS_Store
+Thumbs.db</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fTsK</text>
+      <register name="&quot;" type="4">
+        <text># See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+# Only exists if Bazel was run
+/bazel-out
+
+# dependencies
+/node_modules
+
+# profiling files
+chrome-profiler-events.json
+speed-measure-plugin.json
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+
+# System Files
+.DS_Store
+Thumbs.db</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">bGV0IG1lc3NhZ2U7Cm1lc3NhZ2UgPSAnYWJjJzsKLy8gbGV0IGVuZHNXaXRoQyA9ICg8c3RyaW5nPiBtZXNzYWdlKS5lbmRzV2l0aCgnYycpOwpsZXQgYWx0ZXJuYXRpdmVXYXkgPSAobWVzc2FnZSBhcyBzdHJpbmcpLmVuZHNXaXRoKCdjJyk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">bGV0IG1lc3NhZ2U7Cm1lc3NhZ2UgPSAnYWJjJzsKLy8gbGV0IGVuZHNXaXRoQyA9ICg8c3RyaW5nPiBtZXNzYWdlKS5lbmRzV2l0aCgnYycpOwpsZXQgYWx0ZXJuYXRpdmVXYXkgPSAobWVzc2FnZSBhcyBzdHJpbmcpLmVuZHNXaXRoKCdjJyk7</text>
+      </register>
+      <register name="4" type="4">
         <text>let a: number;
 enum Color {
   Red = 0,
@@ -249,23 +349,20 @@ enum Color {
 
 let backgroundColor = Color.Blue;</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ZnVuY3Rpb24gZG9Tb21ldGhpbmcoKSB7CiAgZm9yIChsZXQgaSA9IDA7IGkgPCA1OyBpKyspIHsKICAgIGNvbnNvbGUubG9nKGkpOwogIH0KCiAgY29uc29sZS5sb2coJ0ZpbmFsbHkgJyArIGkpOwp9Cgpkb1NvbWV0aGluZygpOw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PGlucHV0IHR5cGU9InRleHQiPgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PGgyPlRoZSBQb3N0IENyZWF0ZSBDb21wb25lbnQ8L2gyPgo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4K</text>
+        <text encoding="base64">PGgyPlRoZSBQb3N0IENyZWF0ZSBDb21wb25lbnQ8L2gyPgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJJbmNyZW1lbnQgQ2xpY2tlZCIsIHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4KICAgICAgICAgIDxDb3VudGVyLz4K</text>
       </register>
       <register name="-" type="4">
         <text>F</text>
@@ -293,6 +390,9 @@ let backgroundColor = Color.Blue;</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
